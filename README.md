@@ -15,7 +15,7 @@ The laser platform is operational in several core areas, with major progress com
 Because this project involves a high-power 455 nm laser source, safety controls were treated as a primary design requirement.
 
 Implemented safety features:
-- OD6+ laser safety eyewear rated for 455 nm
+- OD8+ laser safety eyewear rated for 455 nm
 - Hall-effect current sensing with ESP32-based monitoring
 - Temperature-based automatic shutdown
 - Emergency stop (E-stop)
